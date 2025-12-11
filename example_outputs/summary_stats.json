@@ -1,0 +1,19 @@
+{
+  "video_stats": {
+    "total_frames": 585,
+    "frames_with_faces": 522,
+    "frames_with_errors": 0,
+    "face_detection_rate": 0.8923076923076924
+  },
+  "face_stats": {
+    "total_faces_detected": 757,
+    "average_faces_per_frame": 1.294017094017094
+  },
+  "gaze_stats": {
+    "faces_looking_in_frame": 743,
+    "in_frame_percentage": 0.9815059445178336,
+    "average_inout_score": 0.8663468923237633,
+    "average_gaze_distance": 160.58445487436308,
+    "average_gaze_angle": 72.98165476709076
+  }
+}
